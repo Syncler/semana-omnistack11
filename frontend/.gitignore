@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#Este arquvio informa ao git quais serão ignorados ao fazer o push para o repositorio remoto
 
 # dependencies
 /node_modules
